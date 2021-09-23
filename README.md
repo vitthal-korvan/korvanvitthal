@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @korvanvitthal
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Blockchain Technology
+- 👀 I’m interested in Front-end Web Development
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me (korvanvitthal@gmail.com)
 
 <!---
