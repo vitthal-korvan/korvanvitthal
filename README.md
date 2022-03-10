@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitthal Korvan.
-- 👀 I’m interested in Full Stck Web Development.
+- 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently learning Web Development and Applying knowledge to build Good Websites.
 - 📫 How to reach me :
 - E-mail- ( "korvanvitthal@gmail.com" ) 
